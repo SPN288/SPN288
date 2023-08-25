@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![SATYA GitHub stats](https://github-readme-stats.vercel.app/api?username=SPN288)](https://github.com/SPN288/github-readme-stats)
 ![SATYA GitHub stats](https://github-readme-stats.vercel.app/api?username=SPN288&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPN288&layout=pie)](https://github.com/SPN288/github-readme-stats)
