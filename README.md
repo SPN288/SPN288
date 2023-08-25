@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 SATYA PRAKASH NIRALA
+<h1 align="center">Hi 👋, I'm Satya Prakash Nirala</h1>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 <!--
 **SPN288/SPN288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<h1 align="center">Hi 👋, I'm Satya Prakash Nirala</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
