@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![SATYA GitHub stats](https://github-readme-stats.vercel.app/api?username=SPN288)](https://github.com/SPN288/github-readme-stats)
+![SATYA GitHub stats](https://github-readme-stats.vercel.app/api?username=SPN288&show_icons=true)
